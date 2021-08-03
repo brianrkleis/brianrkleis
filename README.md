@@ -1,7 +1,7 @@
 <h1>Hey, I'm Brian :D</h1>
 
 - 🔭 I’m currently working on by Seven IT business and consulting | Atualmente estou trabalhando na by Seven | IT business and consulting
-- 🌱 I’m currently learning Docker and Kuberetes | Atualmente estou aprendendo Docker e Kubernetes
+- 🌱 I’m currently learning Docker and Kubernetes | Atualmente estou aprendendo Docker e Kubernetes
 - I'm a Software Engeneering student at Universidade Católica de Santa Catarina, Joinville. I'm looking to growing up as a professional and as a person, so I'm always studying and improving my knowledges. Trying to never be stuck or frozen, always doing something somewhere.
 <div>
   <a href="https://github.com/brianrkleis">
