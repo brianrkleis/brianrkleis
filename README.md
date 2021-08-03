@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on by Seven IT business and consulting | Atualmente estou trabalhando na by Seven | IT business and consulting
 - 🌱 I’m currently learning Docker and Kuberetes | Atualmente estou aprendendo Docker e Kubernetes
-- I'm a Software Engeneering student at Unviersidade Católica de Santa Catarina, Joinville. I'm looking for growing up as a professional and as a person, so I'm always studying and improving my knowledges. Trying to never be stuck or freeze, always doing something somewhere.
+- I'm a Software Engeneering student at Universidade Católica de Santa Catarina, Joinville. I'm looking to growing up as a professional and as a person, so I'm always studying and improving my knowledges. Trying to never be stuck or freeze, always doing something somewhere.
 <div>
   <a href="https://github.com/brianrkleis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brianrkleis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
