@@ -17,6 +17,8 @@
   <img align="center" alt="Brian-Java" height="30" width="50" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Brian-Php" height="30" width="50" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" alt="Brian-C" height="30" width="50" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img align="center" alt="Brian-Zabbix" height="30" width="50" src="https://assets.zabbix.com/img/logo/zabbix_logo_500x131.png">
+  <img align="center" alt="Brian-Photoshop" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
 </div>
 <div>
   <h2>You can find me here | Você pode me encontrar aqui </h2>
