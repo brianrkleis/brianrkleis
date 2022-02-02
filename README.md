@@ -1,7 +1,7 @@
 <h1>Hey, I'm Brian :D</h1>
 
 - 🔭 I’m currently working on SoftExpert - Software for Excellence | Atualmente estou trabalhando na SoftExpert - Software for Excellence
-- 🌱 I’m currently learning Bash Scripting | Atualmente estou aprendendo Bash Scripting
+- 🌱 I’m currently learning Jenkins | Atualmente estou aprendendo Jenkins
 - I'm a Software Engeneering student at Universidade Católica de Santa Catarina, Joinville. I'm looking to growing up as a professional and as a person, so I'm always studying and improving my knowledges. Trying to never be stuck or frozen, always doing something somewhere.
 <div>
   <a href="https://github.com/brianrkleis">
