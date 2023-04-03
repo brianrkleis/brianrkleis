@@ -1,7 +1,7 @@
 <h1>Hey, I'm Brian :D</h1>
 
-- 🔭 I’m currently working on SoftExpert - Software for Excellence | Atualmente estou trabalhando na SoftExpert - Software for Excellence
-- 🌱 I’m currently learning CI/CD, Git, Kubernetes, IoC and DevOps | Atualmente estou aprendendo CI/CD, Git, Kubernetes, IoC and DevOps
+- 🔭 I’m currently working on SoftExpert - Software for Excellence
+- 🌱 I’m currently learning CI/CD, Git, Kubernetes, IoC and DevOps
 - I'm a Software Engeneering student at Universidade Católica de Santa Catarina, Joinville. I'm looking to growing up as a professional and as a person, so I'm always studying and improving my knowledges. Trying to never be stuck or frozen, always doing something somewhere.
 <div>
   <a href="https://github.com/brianrkleis">
@@ -21,7 +21,7 @@
   <img align="center" alt="Brian-Photoshop" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
 </div>
 <div>
-  <h2>You can find me here | Você pode me encontrar aqui </h2>
+  <h2>You can find me here</h2>
   <a href='https://www.linkedin.com/in/brian-richard-kleis-3b7a051a4/'><img src='https://img.shields.io/badge/Brian%20Richard%20Kleis-blue?style=flat&logo=linkedin&labelColor=blue'</a>
   <img src='https://img.shields.io/badge/brian.kleis@gmail.com-red?style=flat&logo=gmail&labelColor=white'</a>
 
