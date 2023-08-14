@@ -1,6 +1,6 @@
 <h1>Hey, I'm Brian :D</h1>
 
-- 🔭 I’m currently working on SoftExpert - Software for Excellence
+- 🔭 I’m currently working on SoftExpert - Software for Excellence as Junior Devops
 - 🌱 I’m currently learning CI/CD, Git, Kubernetes, IoC and DevOps
 - I'm a Software Engeneering student at Universidade Católica de Santa Catarina, Joinville. I'm looking to growing up as a professional and as a person, so I'm always studying and improving my knowledges. Trying to never be stuck or frozen, always doing something somewhere.
 <div>
