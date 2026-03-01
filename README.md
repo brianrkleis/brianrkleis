@@ -1,8 +1,9 @@
 <h1>Hey, I'm Brian :D</h1>
 
-- 🔭 I’m currently working on SoftExpert - Software for Excellence as Junior Devops
-- 🌱 I’m currently learning CI/CD, Git, Kubernetes, IoC and DevOps
-- I'm a Software Engeneering student at Universidade Católica de Santa Catarina, Joinville. I'm looking to growing up as a professional and as a person, so I'm always studying and improving my knowledges. Trying to never be stuck or frozen, always doing something somewhere.
+- 🔭 I’m currently working at the Tribunal de Contas do Estado de Santa Catarina.
+- 🌱 I’m currently learning MLOps and Artificial Intelligence, with a focus on applying DevOps practices to machine learning workflows.
+- DevSecOps Engineer with solid experience in Kubernetes, Terraform, and multi-cloud infrastructures. Experienced in designing, securing, and operating cloud-native environments, with strong focus on automation, infrastructure as code, and security best practices.
+Open to remote roles and international relocation. Strong advocate of continuous learning and technical improvement.
 <div>
   <a href="https://github.com/brianrkleis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brianrkleis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
