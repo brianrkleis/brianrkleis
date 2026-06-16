@@ -1,6 +1,6 @@
 <h1>Hey, I'm Brian :D</h1>
 
-- 🔭 I’m currently working at the Tribunal de Contas do Estado de Santa Catarina.
+- 🔭 I’m currently working open to work!
 - 🌱 I’m currently learning MLOps and Artificial Intelligence, with a focus on applying DevOps practices to machine learning workflows.
 - DevSecOps Engineer with solid experience in Kubernetes, Terraform, and multi-cloud infrastructures. Experienced in designing, securing, and operating cloud-native environments, with strong focus on automation, infrastructure as code, and security best practices.
 Open to remote roles and international relocation. Strong advocate of continuous learning and technical improvement.
